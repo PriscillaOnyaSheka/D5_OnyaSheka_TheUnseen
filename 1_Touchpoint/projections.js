@@ -184,7 +184,6 @@ function drawProjection2() {
   }
 }
 
-
 // Projection 3: Triage grid
 var isCrisis = false;
 var transition = 0;
